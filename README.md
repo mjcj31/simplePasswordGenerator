@@ -1,1 +1,1 @@
-"# simplePasswordGenerator" 
+# simplePasswordGenerator 
